@@ -17,3 +17,4 @@ if a+b>c and a+c>b and b+c>a:
         print("trojuholnik je ostrouhly")
 else:
     print("trojuholnik neexistuje")
+
